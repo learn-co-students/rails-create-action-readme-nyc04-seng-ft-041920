@@ -1,7 +1,7 @@
 # Create Action
 
 In this lesson, we'll code a `create` action — '**C**' in the '**CRUD**' life
-cycle — that saves a new `Post` object and then redirects to the newly-created
+cycle — that save s a new `Post` object and then redirects to the newly-created
 post's `show` page.
 
 Before implementing this functionality, let's first open up
